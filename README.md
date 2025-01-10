@@ -1,7 +1,7 @@
 # terraform-lambda-metric-Cloudwatch-Alarm
-Terraform code for the Cloudwatch Alarm resources.
+Terraform code for the **Cloudwatch Alarm** resources.
 
-Assuming the Lambda function and metric filters has already been created in the architecture, this is the terraform to create the alarm.
+Assuming the **Lambda function** and metric filters has already been created in the architecture, this is the terraform code to create the alarm.
 
 A ```.tfvars``` file should also included with the following code:
 
